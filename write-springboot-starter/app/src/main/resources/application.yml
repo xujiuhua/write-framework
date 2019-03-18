@@ -1,0 +1,4 @@
+simple:
+  starter:
+    enabled: true
+    greet: Hello
